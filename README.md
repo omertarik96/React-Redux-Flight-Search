@@ -8,3 +8,12 @@ This application will allow users to search and look up realtime flight prices.
 
 - Searching a public API to get the flight data
 - Building UI using material UI
+
+## Get started
+
+```
+yarn install
+yarn start
+```
+
+visit localhost:3000
